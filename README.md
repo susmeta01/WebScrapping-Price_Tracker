@@ -1,4 +1,4 @@
-# WebScrapping-Price_Tracker
+# WebScraping-Price_Tracker
 WebScrapping using BeautifulSoup and tracking product price and sending update to email every 12 hours
 
 ## Technologies used
